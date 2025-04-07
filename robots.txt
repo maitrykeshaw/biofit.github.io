@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://alpha-xtra-boost.netlify.app/sitemap.xml
+Sitemap: https://buy-biofit.vercel.app/sitemap.xml
