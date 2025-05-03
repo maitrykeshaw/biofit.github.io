@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"BioFit™ [Official Website] Get $960 OFF + 03 Free Bonuses",
+  "short_name":"BioFit™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Biofit supplement is a top probiotic weight loss formula that argues to help you lose weight safely by promoting good digestive health.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
