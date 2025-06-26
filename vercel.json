@@ -11,7 +11,7 @@
       "headers": [
         {
           "key": "Cache-Control",
-          "value": "no-cache, no-store"
+          "value": "no-cache, no-store, s-maxage=0, stale-while-revalidate=0"
         },
         {
           "key": "Content-Security-Policy",
